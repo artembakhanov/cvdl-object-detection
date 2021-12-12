@@ -69,8 +69,11 @@ You can see inference examples below.
 <img src="figures/yolov4-inf.png" style="width: 45%;"/>
 <img src="figures/yolov5-inf.png" style="width: 45%;"/>
 </div>
+<p style="text-align: center;">YoloV4 and  YoloV5 inference.</p>
 
-YoloV4 and YoloV5 inference.
+<img src="figures/maskrcnn-inf.png" style="width: 40%;"/>
+
+<p style="text-align: center;">Mask-RCNN inference.</p>
 
 All of the model performed well on the acquired dataset. The problem is that the quality of the dataset may be very high comparing to real-life examples. Also the fact that all of the images were taken on one device is not promising, however it is solvable with adding perturbations and augmentations to the images. Overall, in general I can say that I achieved the expected results.
 
